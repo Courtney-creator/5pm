@@ -1,10 +1,4 @@
-'''json
 {
   "version": 2,
-  "routes": [
-    {
-      "src": "/(.*)",
-      "dest": "/"
-    }
-  ]
+  "cleanUrls": true
 }
