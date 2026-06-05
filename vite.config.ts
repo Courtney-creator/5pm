@@ -2,7 +2,6 @@ import { defineConfig } from "@lovable.dev/vite-tanstack-config";
 import path from "path";
 
 export default defineConfig({
-  nitro: true,
   base: "/",
   resolve: {
     alias: {
